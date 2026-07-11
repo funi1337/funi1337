@@ -10,7 +10,7 @@
 * 🌱 I'm currently learning JavaScript, React and modern web technologies.
 * 💡 Interested in clean code, UI/UX and automation.
 * 🎯 Goal: Build useful projects and help people with my code.
-* 📫 How to reach me: [funi1337@gmail.com](mailto:funi1337@gmail.com)
+* 📫 How to reach me: [funidevelopment@gmail.com](mailto:funidevelopment@gmail.com)
 
 ---
 
@@ -31,15 +31,7 @@
 
 ### Spectra Client
 
-Minecraft client for 1.16.5 with modern GUI, modules and custom rendering.
-
-**Language:** Java
-
----
-
-### Spidoz Client
-
-Minecraft client project focused on performance and usability.
+Minecraft client for 1.21.11 with modern GUI, modules and custom rendering.
 
 **Language:** Java
 
