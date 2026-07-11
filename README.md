@@ -25,6 +25,7 @@
 * IntelliJ IDEA
 * VS Code
 
+<!--
 ---
 
 ## 📌 Pinned Repositories
@@ -75,3 +76,4 @@ Small experiments and tools created while learning reverse engineering.
 * Regular commits and project updates.
 * Clean repository structure.
 * Well-documented code.
+-->
