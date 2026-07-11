@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi, I'm funi1337 👋
 
-<!--
-**funi1337/funi1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java Developer | Web Developer | Open Source Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔨 I'm working on Minecraft clients and web projects.
+* 🌱 I'm currently learning JavaScript, React and modern web technologies.
+* 💡 Interested in clean code, UI/UX and automation.
+* 🎯 Goal: Build useful projects and help people with my code.
+* 📫 How to reach me: [funi1337@gmail.com](mailto:funi1337@gmail.com)
+
+---
+
+## 🛠 Languages & Tools
+
+* Java
+* Git
+* HTML5
+* CSS3
+* JavaScript *(Learning)*
+* Minecraft Development
+* IntelliJ IDEA
+* VS Code
+
+---
+
+## 📌 Pinned Repositories
+
+### Spectra Client
+
+Minecraft client for 1.16.5 with modern GUI, modules and custom rendering.
+
+**Language:** Java
+
+---
+
+### Spidoz Client
+
+Minecraft client project focused on performance and usability.
+
+**Language:** Java
+
+---
+
+### Java Utilities
+
+Collection of useful Java utilities and helper classes used across multiple projects.
+
+**Language:** Java
+
+---
+
+### Landing Templates
+
+Responsive landing page templates built with HTML, CSS and modern design.
+
+**Language:** HTML
+
+---
+
+### Portfolio Website
+
+My personal portfolio website built with HTML and CSS.
+
+**Language:** HTML
+
+---
+
+### Reverse Engineering Lab
+
+Small experiments and tools created while learning reverse engineering.
+
+**Language:** C++
+
+---
+
+## 📈 GitHub Activity
+
+* Active open-source contributor.
+* Regular commits and project updates.
+* Clean repository structure.
+* Well-documented code.
