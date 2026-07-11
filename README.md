@@ -23,14 +23,6 @@
 * JavaScript
 * Minecraft Development
 
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=funi1337&show_icons=true&theme=github_dark)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=funi1337&layout=compact&theme=github_dark)
-
 <!--
 ---
 
